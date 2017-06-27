@@ -1,2 +1,8 @@
 These are PDF versions of publications that are otherwise not published
 somewhere else. 
+
+The filenames correspond top the Bibtex IDs given in:
+
+https://github.com/kunegis/bibtex/blob/master/kunegis.bib
+
+Also, the names match the 'url_*' field names.
